@@ -534,9 +534,7 @@ cat urls.txt | grep "=http" | qsreplace "https://evil.com" | xargs -I@ curl -I -
 [CVE, CWE, связанные ресурсы]
 
 
-<br>
-
 ## 📄 Лицензия
 Все права защищены © 2025 **alyasik**.
 ```
-<\br>
+
